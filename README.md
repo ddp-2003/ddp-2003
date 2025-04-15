@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Dulina Pitigala</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">💻 Passionate tech enthusiast  Exploring the world of software development, web technologies, and innovative solutions. Always learning, coding, and creating for a better tomorrow!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastercodeddp-2003&label=Profile%20views&color=0e75b6&style=flat" alt="mastercodeddp-2003" /> </p>
 
